@@ -60,10 +60,8 @@
     <text x="918" y="256" text-anchor="middle" dominant-baseline="middle" fill="#D8FFF7">Optimization</text>
   </g>
 
-  <g opacity="0.8">
-    <rect x="1015" y="214" width="98" height="66" rx="14" fill="#07111F" stroke="#38BDF8" stroke-opacity="0.35"/>
-    <circle cx="1040" cy="247" r="9" fill="#5EEAD4"/>
-    <circle cx="1065" cy="247" r="9" fill="#38BDF8"/>
-    <circle cx="1090" cy="247" r="9" fill="#A7F3D0"/>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">
+    <rect x="1015" y="236" width="98" height="40" rx="20" fill="#102A35" stroke="#38BDF8" stroke-opacity="0.35"/>
+    <text x="1064" y="256" text-anchor="middle" dominant-baseline="middle" fill="#E3F6FF">Live-Ops</text>
   </g>
 </svg>
