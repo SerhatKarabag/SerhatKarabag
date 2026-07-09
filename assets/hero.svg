@@ -48,16 +48,16 @@
 
   <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">
     <rect x="241" y="236" width="176" height="40" rx="20" fill="#102A35" stroke="#5EEAD4" stroke-opacity="0.35"/>
-    <text x="265" y="261" fill="#D8FFF7">GamePlay Systems</text>
+    <text x="329" y="256" text-anchor="middle" dominant-baseline="middle" fill="#D8FFF7">GamePlay Systems</text>
 
     <rect x="432" y="236" width="218" height="40" rx="20" fill="#102A35" stroke="#38BDF8" stroke-opacity="0.35"/>
-    <text x="456" y="261" fill="#E3F6FF">Backend integration</text>
+    <text x="541" y="256" text-anchor="middle" dominant-baseline="middle" fill="#E3F6FF">Backend Integrations</text>
 
     <rect x="665" y="236" width="156" height="40" rx="20" fill="#102A35" stroke="#A7F3D0" stroke-opacity="0.35"/>
-    <text x="689" y="261" fill="#E8FFF3">Editor Tools</text>
+    <text x="743" y="256" text-anchor="middle" dominant-baseline="middle" fill="#E8FFF3">Editor Tools</text>
 
     <rect x="836" y="236" width="164" height="40" rx="20" fill="#102A35" stroke="#5EEAD4" stroke-opacity="0.35"/>
-    <text x="860" y="261" fill="#D8FFF7">Optimization</text>
+    <text x="918" y="256" text-anchor="middle" dominant-baseline="middle" fill="#D8FFF7">Optimization</text>
   </g>
 
   <g opacity="0.8">
