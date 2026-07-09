@@ -1,10 +1,13 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Serhat Karabag - Senior Unity / C# Game Developer" width="100%" />
+  <img src="./assets/hero.svg?v=20260709-cv-refresh" alt="Serhat Karabag - Senior Unity / C# Game Developer" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/SerhatKarabag?tab=repositories">
     <img alt="Repositories" src="https://img.shields.io/badge/Portfolio-Unity%20Projects-0B332F?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.serhat.dev">
+    <img alt="Website" src="https://img.shields.io/badge/Website-serhat.dev-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://github.com/SerhatKarabag">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-SerhatKarabag-111827?style=for-the-badge&logo=github&logoColor=white" />
@@ -13,12 +16,13 @@
 
 ## About
 
-I am a senior Unity/C# game developer focused on gameplay systems, scalable project architecture, mobile performance, and tooling that keeps production workflows clear. I like building systems that are easy to tune, test, extend, and reason about under real gameplay pressure.
+I am a Senior Unity Developer with 7 years of experience building and shipping mobile games from concept to release. My work is strongest around gameplay systems, scalable Unity architecture, backend integrations, live ops, monetization, analytics, and mobile performance optimization.
 
-- Gameplay architecture with state machines, dependency injection, data-driven configuration, and clean runtime boundaries
-- Mobile-first Unity development with responsive UI, Android builds, memory-aware systems, and performance-minded code
-- Puzzle, arcade, card, and hyper-casual gameplay prototypes with production-style structure
-- Unity editor tooling, ScriptableObject workflows, backend-connected clients, and server-authoritative gameplay flows
+- Production mobile game development across hybrid-casual, multiplayer, mid-core, puzzle, arcade, and card game projects
+- Gameplay architecture with clean C#, dependency injection, data-driven configuration, and readable runtime boundaries
+- Backend-connected game flows using authoritative services, PlayFab/Azure/Firebase, REST APIs, analytics, IAP, and live ops systems
+- Performance-minded Unity implementation for mobile gameplay loops, responsive UI, memory usage, and production delivery
+- Editor tooling, ScriptableObject workflows, testable systems, and team-friendly project structure
 
 ## Core Stack
 
@@ -26,18 +30,42 @@ I am a senior Unity/C# game developer focused on gameplay systems, scalable proj
   <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img alt="Rider" src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Addressables" src="https://img.shields.io/badge/Addressables-111827?style=for-the-badge" />
+  <img alt="DOTS" src="https://img.shields.io/badge/DOTS-0F766E?style=for-the-badge" />
   <img alt="Zenject" src="https://img.shields.io/badge/Zenject-2563EB?style=for-the-badge" />
   <img alt="DOTween" src="https://img.shields.io/badge/DOTween-0F766E?style=for-the-badge" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="Photon" src="https://img.shields.io/badge/Photon-004480?style=for-the-badge" />
+  <img alt="PlayFab" src="https://img.shields.io/badge/PlayFab-2F74C0?style=for-the-badge" />
+  <img alt="Azure Functions" src="https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111827" />
+  <img alt="REST API" src="https://img.shields.io/badge/REST%20API-334155?style=for-the-badge" />
+  <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-181717?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img alt="Automated Testing" src="https://img.shields.io/badge/Automated%20Testing-14532D?style=for-the-badge" />
+  <img alt="IAP and Monetization" src="https://img.shields.io/badge/IAP%20%2F%20Monetization-7C2D12?style=for-the-badge" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-## Featured Work
+## Production Experience
+
+| Context | Scope |
+| --- | --- |
+| Lead Game Developer at Lightwell Games | Built Hole Craze, a hybrid-casual mobile game with large-scale systems; implemented gameplay, authoritative backend, live ops, monetization, analytics, and optimization |
+| Senior Game Developer at Animation International | Led high-quality Unity projects from concept to release, with a focus on gameplay quality, performance, and player engagement |
+| Game Developer at Atlas Software | Worked on multiplayer and mid-core game projects, building gameplay systems, tools, levels, and performance improvements |
+| Backend-connected mobile apps | Built Unity clients and service integrations around PlayFab, Azure Functions, Firebase, Google Fit, REST APIs, and monetization flows |
+
+## Selected Production Work
+
+| Project | Focus | Notes |
+| --- | --- | --- |
+| Hole Craze: Puzzle Game | Hybrid-casual mobile game | Hole-based eat-and-grow core mechanic with gameplay, backend, live ops, monetization, analytics, and optimization ownership |
+| Sky Wars Istanbul | Multiplayer aerial combat | Machine guns, missiles, multiple game modes, and multiplayer gameplay logic |
+| SchrittBuddy | Step-to-rewards Unity app | Google Fit/Firebase integration, Azure/PlayFab backend, and revenue-generating ad flow |
+| AI Chatbot & Image Generator | Generative AI app | OpenAI API integration in an end-user application |
+
+## Selected Portfolio Repositories
 
 | Project | Focus | Highlights |
 | --- | --- | --- |
@@ -51,11 +79,11 @@ I am a senior Unity/C# game developer focused on gameplay systems, scalable proj
 
 ## Engineering Focus
 
-- Clear gameplay boundaries over monolithic scene scripts
-- Data-driven tuning through ScriptableObjects, config assets, and editor tools
-- Allocation-aware systems for mobile gameplay loops
-- Deterministic or validated flows for rewards, scoring, and server-facing logic
-- Readable C# that can survive iteration, debugging, and future feature work
+- Scalable gameplay architecture that can survive production iteration
+- Backend-connected gameplay with authoritative rewards, scoring, live ops, analytics, and monetization flows
+- Mobile performance profiling across gameplay loops, UI, memory, loading, and runtime allocations
+- Data-driven tuning through ScriptableObjects, config assets, addressable content, and custom editor tools
+- Readable C# systems that stay testable, debuggable, and easy for a team to extend
 
 ## GitHub Snapshot
 
@@ -66,4 +94,4 @@ I am a senior Unity/C# game developer focused on gameplay systems, scalable proj
 
 ## Current Direction
 
-I am continuing to sharpen my portfolio around senior Unity work: architecture-heavy gameplay samples, polished mobile prototypes, backend-connected game flows, and practical editor tooling.
+I am using this GitHub profile to show production-grade Unity work through focused, readable samples: gameplay architecture, backend-integrated prototypes, mobile performance, custom editor tooling, and testable C# systems.
