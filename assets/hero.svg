@@ -1,0 +1,69 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.55" stop-color="#0B1F2A"/>
+      <stop offset="1" stop-color="#0B332F"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="190" y1="68" x2="990" y2="246" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4"/>
+      <stop offset="0.5" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#A7F3D0"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="18" result="blur"/>
+      <feBlend in="SourceGraphic" in2="blur" mode="screen"/>
+    </filter>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" stroke="#FFFFFF" stroke-opacity="0.055"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="28" fill="url(#grid)"/>
+
+  <circle cx="1000" cy="70" r="170" fill="#22C55E" fill-opacity="0.12"/>
+  <circle cx="170" cy="265" r="190" fill="#38BDF8" fill-opacity="0.10"/>
+  <path d="M120 238C265 122 397 118 534 178C679 241 814 236 1082 86" stroke="url(#accent)" stroke-width="2.5" stroke-opacity="0.45"/>
+  <path d="M120 258C305 178 436 184 568 222C721 267 892 210 1082 128" stroke="#5EEAD4" stroke-width="1.5" stroke-opacity="0.20"/>
+
+  <g transform="translate(88 68)">
+    <rect x="0" y="0" width="118" height="118" rx="26" fill="#0F172A" stroke="#5EEAD4" stroke-opacity="0.55"/>
+    <path d="M37 70L59 39L81 70H69L59 55L49 70H37Z" fill="#5EEAD4"/>
+    <path d="M34 83H84" stroke="#38BDF8" stroke-width="7" stroke-linecap="round"/>
+  </g>
+
+  <g filter="url(#glow)">
+    <text x="238" y="118" fill="#E5F7FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="50" font-weight="800" letter-spacing="0">
+      Serhat Karabag
+    </text>
+    <text x="241" y="166" fill="url(#accent)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">
+      Senior Unity / C# Game Developer
+    </text>
+  </g>
+
+  <text x="241" y="207" fill="#B9CED8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20">
+    Gameplay architecture, mobile performance, data-driven systems, and production-minded Unity tooling.
+  </text>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">
+    <rect x="241" y="236" width="176" height="40" rx="20" fill="#102A35" stroke="#5EEAD4" stroke-opacity="0.35"/>
+    <text x="265" y="261" fill="#D8FFF7">Gameplay Systems</text>
+
+    <rect x="432" y="236" width="169" height="40" rx="20" fill="#102A35" stroke="#38BDF8" stroke-opacity="0.35"/>
+    <text x="456" y="261" fill="#E3F6FF">Mobile Unity</text>
+
+    <rect x="616" y="236" width="168" height="40" rx="20" fill="#102A35" stroke="#A7F3D0" stroke-opacity="0.35"/>
+    <text x="640" y="261" fill="#E8FFF3">Editor Tools</text>
+
+    <rect x="799" y="236" width="206" height="40" rx="20" fill="#102A35" stroke="#5EEAD4" stroke-opacity="0.35"/>
+    <text x="823" y="261" fill="#D8FFF7">Backend-connected Clients</text>
+  </g>
+
+  <g opacity="0.8">
+    <rect x="1015" y="214" width="98" height="66" rx="14" fill="#07111F" stroke="#38BDF8" stroke-opacity="0.35"/>
+    <circle cx="1040" cy="247" r="9" fill="#5EEAD4"/>
+    <circle cx="1065" cy="247" r="9" fill="#38BDF8"/>
+    <circle cx="1090" cy="247" r="9" fill="#A7F3D0"/>
+  </g>
+</svg>
