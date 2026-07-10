@@ -3,14 +3,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SerhatKarabag?tab=repositories">
-    <img alt="Repositories" src="https://img.shields.io/badge/Portfolio-Unity%20Projects-0B332F?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/serhat-karaba%C4%9F-85ab80142/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.serhat.dev">
-    <img alt="Website" src="https://img.shields.io/badge/Website-serhat.dev-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="https://www.instagram.com/serhatkarabag">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://github.com/SerhatKarabag">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-SerhatKarabag-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="mailto:skarabag4@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://serhat.dev">
+    <img alt="Website" src="https://img.shields.io/badge/Website-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
@@ -26,25 +29,41 @@ I am a Senior Unity Developer with 7 years of experience building and shipping m
 
 ## Core Stack
 
+**Unity & Runtime**
+
 <p>
   <img alt="Unity" src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white" />
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img alt="Addressables" src="https://img.shields.io/badge/Addressables-111827?style=for-the-badge" />
   <img alt="DOTS" src="https://img.shields.io/badge/DOTS-0F766E?style=for-the-badge" />
+  <img alt="Multithreading" src="https://img.shields.io/badge/Multithreading-1E3A8A?style=for-the-badge" />
+  <img alt="ScriptableObjects" src="https://img.shields.io/badge/ScriptableObjects-334155?style=for-the-badge" />
   <img alt="Zenject" src="https://img.shields.io/badge/Zenject-2563EB?style=for-the-badge" />
   <img alt="DOTween" src="https://img.shields.io/badge/DOTween-0F766E?style=for-the-badge" />
+</p>
+
+**Architecture & Production**
+
+<p>
+  <img alt="Gameplay Architecture" src="https://img.shields.io/badge/Gameplay%20Architecture-0F172A?style=for-the-badge" />
+  <img alt="Authoritative Backend" src="https://img.shields.io/badge/Authoritative%20Backend-1D4ED8?style=for-the-badge" />
+  <img alt="Editor Tooling" src="https://img.shields.io/badge/Editor%20Tooling-0369A1?style=for-the-badge" />
+  <img alt="Performance Profiling" src="https://img.shields.io/badge/Performance%20Profiling-047857?style=for-the-badge" />
+  <img alt="Automated Testing" src="https://img.shields.io/badge/Automated%20Testing-14532D?style=for-the-badge" />
+  <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-181717?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img alt="Live Ops" src="https://img.shields.io/badge/Live%20Ops-0F766E?style=for-the-badge" />
+  <img alt="IAP and Monetization" src="https://img.shields.io/badge/IAP%20%2F%20Monetization-7C2D12?style=for-the-badge" />
+</p>
+
+**Backend & Multiplayer**
+
+<p>
   <img alt="Photon" src="https://img.shields.io/badge/Photon-004480?style=for-the-badge" />
   <img alt="PlayFab" src="https://img.shields.io/badge/PlayFab-2F74C0?style=for-the-badge" />
   <img alt="Azure Functions" src="https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111827" />
   <img alt="REST API" src="https://img.shields.io/badge/REST%20API-334155?style=for-the-badge" />
-  <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-181717?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img alt="Automated Testing" src="https://img.shields.io/badge/Automated%20Testing-14532D?style=for-the-badge" />
-  <img alt="IAP and Monetization" src="https://img.shields.io/badge/IAP%20%2F%20Monetization-7C2D12?style=for-the-badge" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
 ## Production Experience
