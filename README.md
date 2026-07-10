@@ -72,10 +72,10 @@ I have worked as Lead Game Developer at Lightwell Games, Senior Game Developer a
 
 | Project | Focus | Notes |
 | --- | --- | --- |
-| Hole Craze: Puzzle Game | Hybrid-casual mobile game | Hole-based eat-and-grow core mechanic with gameplay, backend, live ops, monetization, analytics, and optimization ownership |
-| Sky Wars Istanbul | Multiplayer aerial combat | Machine guns, missiles, multiple game modes, and multiplayer gameplay logic |
-| SchrittBuddy | Step-to-rewards Unity app | Google Fit/Firebase integration, Azure/PlayFab backend, and revenue-generating ad flow |
-| AI Chatbot & Image Generator | Generative AI app | OpenAI API integration in an end-user application |
+| [Hole Craze: Puzzle Game](https://apps.apple.com/tr/app/hole-craze-puzzle-game/id6757392518) | Hybrid-casual mobile game | Hole-based eat-and-grow core mechanic with gameplay, backend, live ops, monetization, analytics, and optimization ownership |
+| [Sky Wars Istanbul](https://apps.apple.com/tr/app/sky-wars-istanbul/id1580162048?l=tr) | Multiplayer aerial combat | Machine guns, missiles, multiple game modes, and multiplayer gameplay logic |
+| [SchrittBuddy](https://apps.apple.com/de/app/schrittbuddy-lauf-verdien/id6738351816) | Step-to-rewards Unity app | Google Fit/Firebase integration, Azure/PlayFab backend, and revenue-generating ad flow |
+| [AI Chatbot & Image Generator](https://play.google.com/store/apps/details?id=com.PatiGameStudio.MentorAI) | Generative AI app | OpenAI API integration in an end-user application |
 
 ## Selected Portfolio Repositories
 
