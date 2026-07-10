@@ -89,13 +89,13 @@ I have worked as Lead Game Developer at Lightwell Games, Senior Game Developer a
 | [unity-sled-surfers-clone](https://github.com/SerhatKarabag/unity-sled-surfers-clone) | 3D arcade runner clone | Slingshot launch, downhill steering, collectibles, upgrades, Android build, positively evaluated CrayzLabs assessment |
 | [cozmopol-product-catalog](https://github.com/SerhatKarabag/cozmopol-product-catalog) | Unity client + local API | Product browsing, filtering, update flow, Express/PostgreSQL backend, Docker setup |
 
-## Engineering Focus
+## Engineering Approach
 
-- Scalable gameplay architecture that can survive production iteration
-- Backend-connected gameplay with authoritative rewards, scoring, live ops, analytics, and monetization flows
-- Mobile performance profiling across gameplay loops, UI, memory, loading, and runtime allocations
-- Data-driven tuning through ScriptableObjects, config assets, addressable content, and custom editor tools
-- Readable C# systems that stay testable, debuggable, and easy for a team to extend
+- Design gameplay systems around clear ownership, explicit dependencies, and data-driven boundaries
+- Profile before optimizing, treating frame time, memory, loading, and allocations as mobile performance budgets
+- Treat gameplay, backend authority, economy, analytics, monetization, and live ops as one validated product flow
+- Build editor tools and automated tests where they shorten iteration and reduce production risk
+- Prefer composable, readable C# over clever abstractions that make future changes expensive
 
 ## GitHub Snapshot
 
@@ -103,7 +103,3 @@ I have worked as Lead Game Developer at Lightwell Games, Senior Game Developer a
   <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=SerhatKarabag&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
   <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerhatKarabag&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </p>
-
-## Current Direction
-
-I am using this GitHub profile to show production-grade Unity work through focused, readable samples: gameplay architecture, backend-integrated prototypes, mobile performance, custom editor tooling, and testable C# systems.
