@@ -21,6 +21,8 @@
 
 I am a Senior Unity Developer with 7 years of experience building and shipping mobile games from concept to release. My work is strongest around gameplay systems, scalable Unity architecture, backend integrations, live ops, monetization, analytics, and mobile performance optimization.
 
+I have worked as Lead Game Developer at Lightwell Games, Senior Game Developer at Animation International, and Game Developer at Atlas Software.
+
 - Production mobile game development across hybrid-casual, multiplayer, mid-core, puzzle, arcade, and card game projects
 - Gameplay architecture with clean C#, dependency injection, data-driven configuration, and readable runtime boundaries
 - Backend-connected game flows using authoritative services, PlayFab/Azure/Firebase, REST APIs, analytics, IAP, and live ops systems
@@ -65,15 +67,6 @@ I am a Senior Unity Developer with 7 years of experience building and shipping m
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=111827" />
   <img alt="REST API" src="https://img.shields.io/badge/REST%20API-334155?style=for-the-badge" />
 </p>
-
-## Production Experience
-
-| Context | Scope |
-| --- | --- |
-| Lead Game Developer at Lightwell Games | Built Hole Craze, a hybrid-casual mobile game with large-scale systems; implemented gameplay, authoritative backend, live ops, monetization, analytics, and optimization |
-| Senior Game Developer at Animation International | Led high-quality Unity projects from concept to release, with a focus on gameplay quality, performance, and player engagement |
-| Game Developer at Atlas Software | Worked on multiplayer and mid-core game projects, building gameplay systems, tools, levels, and performance improvements |
-| Backend-connected mobile apps | Built Unity clients and service integrations around PlayFab, Azure Functions, Firebase, Google Fit, REST APIs, and monetization flows |
 
 ## Selected Production Work
 
